@@ -1,4 +1,4 @@
-1<h1 align="center">🌸 Olá, eu sou a Yasmim Santana! 🌸</h1>
+<h1 align="center">🌸 Olá, eu sou a Yasmim Santana! 🌸</h1>
 <p align="center">
   <i>Estudante de Análise e Desenvolvimento de Sistemas | 19 anos</i><br>
   <i>Apaixonada por tecnologia, aprendizado constante e projetos com propósito</i>
