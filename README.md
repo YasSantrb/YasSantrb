@@ -29,6 +29,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 #### 🛡️ Áreas de Interesse e Pesquisa
-- Desenvolvimento Web Full-Stack
+- Desenvolvimento Web 
 - Segurança da Informação e Defesa Cibernética
-- UI/UX Design
+- UX
